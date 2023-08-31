@@ -2,5 +2,5 @@
 
 ## My favorite things about CS193
 - Lecture starts at 6:30pm
-+ PSO is optional
++ PSOs are optional
 * 1st bullet was a lie
